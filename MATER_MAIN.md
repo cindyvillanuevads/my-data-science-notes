@@ -1,4 +1,4 @@
-## HOW TO CHANGE BRANCH MASTER TO MAIN 
+## HOW TO CHANGE  MASTER TO MAIN BRANCH
 1. Locate your repository (my-data-science-notes)
 *       $cd Desktop/codeup-data-science/my-data-science-notes/
 2. Check status
