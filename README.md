@@ -1,4 +1,4 @@
-## GIT NOTES
+##                             GIT NOTES
 * GIT is a "Distrubuted version contril system". Git is like dropbox for code
 
 
