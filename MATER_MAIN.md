@@ -17,7 +17,10 @@
 7. Check toy git status
 *       git status
     you will see:
-*   On branch main
-*   Your branch is up to date with 'origin/main'.
+            On branch main
+            Your branch is up to date with 'origin/main'.
 
-*   nothing to commit, working tree clean
+            nothing to commit, working tree clean
+
+###  Running this code in your terminal will also change your global git settings on your laptop to always default to the main branch setting
+*       git config --global init.defaultBranch main
