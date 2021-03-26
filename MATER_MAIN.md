@@ -17,6 +17,7 @@
 7. Check toy git status
 *       git status
     you will see:
+
             On branch main
             Your branch is up to date with 'origin/main'.
 
